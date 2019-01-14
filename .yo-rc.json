@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.ifelze.wrkr",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "wrkr",
+        "packageName": "com.ifelze.wrkr",
+        "packageFolder": "com/ifelze/wrkr",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": "spring-websocket",
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YzEzODAyYTAyYTAzZjM3YjRhMzhkMmZiYWM2MTYyOWY2NzhkNjU2NDk3Y2E2OTBlOGU1ZTM3YTIwNThkMjIwZWQ2MDYzYjliODQ2MGRiMDc4MjBkNTY2MTFiNTI0ZWYyMTJiNmJhNDQ1MmYyMWRkZDdiYWMxMTYzZjZjYzcyNzQ=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["protractor"],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "hi"]
+    }
+}
